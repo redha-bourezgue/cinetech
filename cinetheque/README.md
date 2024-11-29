@@ -1,18 +1,16 @@
-# Cinetech
+# Cinetech 🎥
 
-Cinetech est une application web de gestion de films, permettant aux utilisateurs de consulter des films, de les ajouter à une liste de favoris ou de les marquer comme à voir. Ce projet utilise l'API TMDB pour récupérer les informations sur les films.
-
-
+Cinetech est une application web de gestion de films, permettant aux utilisateurs de consulter des films, de les ajouter à une liste de favoris ou de les marquer comme à voir. Ce projet utilise l'API TMDB pour récupérer les informations sur les films. 🎬
 
 ## Prérequis
 
 Avant de commencer, assurez-vous d'avoir installé les outils suivants :
 
-- [PHP](https://www.php.net/) (version 7.4 ou supérieure)
-- [Composer](https://getcomposer.org/)
-- [MySQL](https://www.mysql.com/)
-- [Node.js](https://nodejs.org/) (pour les dépendances front-end)
-- [Git](https://git-scm.com/)
+- [PHP](https://www.php.net/) (version 7.4 ou supérieure) 💻
+- [Composer](https://getcomposer.org/) 🎶
+- [MySQL](https://www.mysql.com/) 🚀
+- [Node.js](https://nodejs.org/) (pour les dépendances front-end) 🚀
+- [Git](https://git-scm.com/) 🚀
 
 ## Installation
 
@@ -59,11 +57,11 @@ Avant de commencer, assurez-vous d'avoir installé les outils suivants :
 
 ## Fonctionnalités
 
-- Consultation des films à l'affiche et à venir.
-- Ajout de films à une liste de favoris.
-- Marquer des films comme à voir.
-- Système de notation des films.
-- Historique de visionnage.
+- Consultation des films à l'affiche et à venir 🎥.
+- Ajout de films à une liste de favoris ❤️.
+- Marquer des films comme à voir 🎬.
+- Système de notation des films 🌟.
+- Historique de visionnage 📚.
 
 ## Déploiement sur GitHub
 
@@ -84,8 +82,8 @@ Avant de commencer, assurez-vous d'avoir installé les outils suivants :
 
 ## Contribuer
 
-Les contributions sont les bienvenues ! Veuillez soumettre une demande de tirage (pull request) pour toute amélioration ou correction.
+Les contributions sont les bienvenues ! Veuillez soumettre une demande de tirage (pull request) pour toute amélioration ou correction. 🚀
 
 ## Licence
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails. 📜
